@@ -12,7 +12,7 @@ Read very detailed events from Photoshop on the fly in human friendly format
 Now you should have ScriptListenerJSON.json file on your desktop about everthing what can Script Listener see plus something more.
 
 You also can modify event analyser and trigger function if event fulfills some conditions.
-E.g.
+E.g. after you will create text layer with Comic Sans font you can trigger action
 ```
 var isComicSans;
 try{
